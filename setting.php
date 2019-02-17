@@ -285,6 +285,11 @@ __   __
 
 
 
-
+$free_gift=$red."
+ _____                 ____ _  __ _
+|  ___| __ ___  ___   / ___(_)/ _| |_
+| |_ | '__/ _ \/ _ \ | |  _| | |_| __|
+|  _|| | |  __/  __/ | |_| | |  _| |_
+|_|  |_|  \___|\___|  \____|_|_|  \__|".$t.$turkis."[™]".$ijo." Creator AntoniusVip".$t.$turkis."[•] ".$ijo."Versi 1.0".$t.$turkis."[•] Code Invite : ".$ijo."".$t.$t.$turkis."[$red!$turkis]$red Warning !!!".$t.$turkis."[•] ".$kuning."Ini adalah program ilegal".$t.$turkis."[•] ".$kuning."Resiko sepenuhnya di tanggung pengguna".$t.$turkis."[$red!$turkis] ".$kuning."Versi[$red v.1.0$kuning ] Premium & Multi Account".$t.$turkis."[®] ".$kuning."Enjoy Your Life !! ".$t.$t;
 
 ?>
