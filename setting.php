@@ -153,6 +153,7 @@ $pink="[1;35m";
   sleep(1);
   echo$turkis."█████";   	
  }
+ echo$r;
 }
 
 
