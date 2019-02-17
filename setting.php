@@ -301,4 +301,14 @@ __     __
  \ \ / / _ \/ __|/ _ \/ _` |
   \ V /  __/\__ \  __/ (_| |
    \_/ \___||___/\___|\__,_|".$t.$turkis."[™]".$ijo." Creator AntoniusVip".$t.$turkis."[•] ".$ijo."Versi 1.0".$t.$turkis."[•] Code Invite : ".$ijo."K42910".$t.$t.$turkis."[$red!$turkis]$red Warning !!!".$t.$turkis."[•] ".$kuning."Ini adalah program ilegal".$t.$turkis."[•] ".$kuning."Resiko sepenuhnya di tanggung pengguna".$t.$turkis."[$red!$turkis] ".$kuning."Versi[$red v.1.0$kuning ] Premium & Multi Account".$t.$turkis."[®] ".$kuning."Enjoy Your Life !! ".$t.$t;
+   
+   
+   
+   
+$cworld=$red."
+  ______        __         _     _
+ / ___\ \      / /__  _ __| | __| |
+| |    \ \ /\ / / _ \| '__| |/ _` |
+| |___  \ V  V / (_) | |  | | (_| |
+ \____|  \_/\_/ \___/|_|  |_|\__,_|".$t.$turkis."[™]".$ijo." Creator AntoniusVip".$t.$turkis."[•] ".$ijo."Versi 1.0".$t.$turkis."[•] Code Invite : ".$ijo."K42910".$t.$t.$turkis."[$red!$turkis]$red Warning !!!".$t.$turkis."[•] ".$kuning."Ini adalah program ilegal".$t.$turkis."[•] ".$kuning."Resiko sepenuhnya di tanggung pengguna".$t.$turkis."[$red!$turkis] ".$kuning."Versi[$red v.1.0$kuning ] Premium & Multi Account".$t.$turkis."[®] ".$kuning."Enjoy Your Life !! ".$t.$t;
 ?>
